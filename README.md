@@ -89,18 +89,26 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 <h2>Activity</h2>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0srD4n&hide_progress=true"/>
+ <a href="https://github.com/0srD4n/github-readme-stats">
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0srD4n&hide_progress=true"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0srD4n&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/0srD4n/">
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=0srD4n&show_icons=true&theme=tokyonight"/>
 </a>
 
 ---
 >[!IMPORTANT]
-> <a href="https://github.com/0srD4n"><img src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>
-  <a href="https://github.com/0srD4n"><img title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a>
+> <b>Hello All, if you find me who has the codename Dantca, 0srD4n and also XplDan you can send me a message using the pgp that I have provided.. let me know!! origin names only here</b>
+> <br>
+> <br>
+> <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>
+  <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a>
 >
+
+---
+<h2>
+  Donate
+</h3>
 
 
 
