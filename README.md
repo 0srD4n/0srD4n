@@ -95,7 +95,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 ---
 <h2>Activity</h2>
  <a href="https://github.com/0srD4n/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0srD4n&hide_progress=true"/>
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0srD4n&hide_progress=true&theme=radical"/>
 </a>
 <a href="https://github.com/0srD4n/">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=0srD4n&show_icons=true&theme=tokyonight"/>
