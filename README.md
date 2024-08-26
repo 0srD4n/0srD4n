@@ -79,36 +79,41 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 > <sub>Last played:</sub><br>
 > <sub> Hacking Mode On</sub> <br>
 > [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xm7txea264o45vm66425ojitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+><br>
+><br>
+> Information :
+> <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>
+  <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a>
 
 ---
 > [!NOTE]
 > **Check The Hot Repo !!**
 > <br>
-> [![teler-waf](https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent)](https://github.com/kitabisa/teler-waf)
-> [![noizy](https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent)](https://github.com/dwisiswant0/noizy)
+> [![teler-waf](https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent)](https://github.com/0srD4n/Website_Anime)
+> [![noizy](https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent)](https://github.com/0srD4n/Portofolio)
 
 ---
 <h2>Activity</h2>
  <a href="https://github.com/0srD4n/github-readme-stats">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0srD4n&hide_progress=true"/>
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0srD4n&hide_progress=true"/>
 </a>
 <a href="https://github.com/0srD4n/">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=0srD4n&show_icons=true&theme=tokyonight"/>
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=0srD4n&show_icons=true&theme=tokyonight"/>
 </a>
 
 ---
 >[!IMPORTANT]
-> <b>Hello All, if you find me who has the codename Dantca, 0srD4n and also XplDan you can send me a message using the pgp that I have provided.. let me know!! origin names only here</b>
+> <b>Hello All, if you find me who has the codename 0srD4n  you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
+> no one know about this games : - )
+> <br>
+> <b>If you’ve found my tools or project useful or would like to support my efforts, please consider contributing. If you're able, a small donation to buy me a cup of coffee would be greatly appreciated!<b>
+> <br>
+> <b>coffe for me is my energy lol !!</b> 
 > <br>
 > <br>
-> <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>
-  <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a>
->
+>[![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n) [![Trakteer - dwisiswant0](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip) [![Ko-fi - dwisiswant0](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n) [![PayPal - dw1s](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
 
 ---
-<h2>
-  Donate
-</h3>
 
 
 
