@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-
 <div align="center">
   <p>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
@@ -99,10 +97,10 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!TIP] 
+> [!TIP]
 > [![Spotify - Dantca_](https://img.shields.io/badge/Spotify-Dantca_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)
 >
-> <sub>Last played:</sub> 
+> <sub>Last played:</sub>
 > <sub>Hacking Mode On</sub>
 >
 > [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xm7txea264o45vm66425ojitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
@@ -116,11 +114,10 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!NOTE]
-> **Check The Hot Repo!!**
+> [!NOTE] > **Check The Hot Repo!!**
 >
 > <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a>
->  <a href="https://github.com/0srD4n/Portofolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent"></a>
+> <a href="https://github.com/0srD4n/Portofolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent"></a>
 
 ---
 
@@ -135,8 +132,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!IMPORTANT] 
->  <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
+> [!IMPORTANT]
+> <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
 >
 > no one know about this games : - )
 >
@@ -146,7 +143,10 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 >
 > Donate for me:
 >
-> [![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n) > [![Trakteer - 0srD4n](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip) > [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n) > [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
+> [![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n)
+> [![Trakteer - 0srD4n](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip)
+> [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n)
+> [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
 
 ---
 
@@ -175,5 +175,3 @@ In this repository, you'll find a collection of projects and tools that push the
 > coming soon
 
 > Latters Chatters
-
-
