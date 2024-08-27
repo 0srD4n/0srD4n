@@ -6,22 +6,23 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
-</p>
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
+  </p>
 
-<p align="center;">
-  <a href="https://github.com/0srD4n">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a  href="https://linkedin.com/in/your-profile">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/0srD4n">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
+  <p>
+    <a href="https://github.com/0srD4n">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/your-profile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/0srD4n">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -174,3 +175,9 @@ In this repository, you'll find a collection of projects and tools that push the
 > coming soon
 
 > Latters Chatters
+
+
+## <span style="font-family: 'Courier New', monospace; font-size: 24px; color: #FF00FF; text-shadow: 2px 2px #00FFFF, -2px -2px #FF00FF, 2px -2px #00FFFF, -2px 2px #FF00FF;">G̷̛̠͈̲̅̈́l̸̨̛̤͍̣̈́̓i̷͚̭͂̈́͝t̶̰̣̓c̷̢̛̱̈́̈́h̷͚̣̓̈́ ̶͚̓T̷͚̓e̷͚̓x̷͚̓t̷͚̓</span>
+
+<!-- Komentar: Teks glitch di atas menggunakan kombinasi CSS dan karakter Unicode untuk menciptakan efek glitch -->
+
