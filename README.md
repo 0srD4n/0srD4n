@@ -8,12 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   <a href="https://github.com/0srD4n">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/0srD4n">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -106,6 +109,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 |------------------------|
 | <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a> |
 | <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a> |
+
 
 ---
 
