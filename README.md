@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-** Welcome back to My github **
+** 🌐 Welcome to the Digital Frontier 🖥️ **
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -98,7 +98,9 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!NOTE] > **Check The Hot Repo !!** > <br> > <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a> <a href="https://github.com/0srD4n/Portofolio"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent">
+> [!NOTE] > **Check The Hot Repo !!**
+> <br>
+> <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a> <a href="https://github.com/0srD4n/Portofolio"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent">
 
 ---
 
@@ -116,6 +118,34 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 > <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
 > no one know about this games : - )
 > <br> > <b>If you’ve found my tools or project useful or would like to support my efforts, please consider contributing. If you're able, a small donation to buy me a cup of coffee would be greatly appreciated!<b> > <br> > <b>coffe for me is my energy lol !!</b> > <br> > <br>
+> Donate for me :
+> <br>
 > [![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n) [![Trakteer - dwisiswant0](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip) [![Ko-fi - dwisiswant0](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n) [![PayPal - dw1s](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
 
 ---
+
+> "The future is already here — it's just not evenly distributed." - William Gibson
+
+## 🚀 Exploring the Cyber Realm
+
+In this repository, you'll find a collection of projects and tools that push the boundaries of technology and cybersecurity. Dive into the world of:
+
+- 🔐 Encryption algorithms
+- 🕵️ Network penetration testing
+- 🤖 AI-driven security systems
+- 🌐 Decentralized applications
+- 🌐 Web Development
+
+## 💻 Featured Projects
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| NeuralCrypt | AI-powered encryption system | Python, TensorFlow |
+| BlockGuard | Blockchain-based access control | Solidity, Web3.js |
+| QuantumScan | Quantum-resistant vulnerability scanner | Rust, Q# |
+| Website_Anime | Website Anime | HTML, CSS, JavaScript |
+| Portofolio | Portofolio | HTML, CSS, JavaScript |
+
+## 🔧 Tools of the Trade
+coming soon
+
