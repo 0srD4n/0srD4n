@@ -10,13 +10,13 @@
 
 <p align="center;">
   <a href="https://github.com/0srD4n">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a  href="https://linkedin.com/in/your-profile">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/0srD4n">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -110,7 +110,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!NOTE] > **Check The Hot Repo!!**
+> [!NOTE]
+> **Check The Hot Repo!!**
 >
 > <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a> > <a href="https://github.com/0srD4n/Portofolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent"></a>
 
@@ -127,8 +128,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!IMPORTANT]
-> <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
+> [!IMPORTANT] > <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
 >
 > no one know about this games : - )
 >
@@ -138,10 +138,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 >
 > Donate for me:
 >
-> [![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n)
-> [![Trakteer - 0srD4n](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip)
-> [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n)
-> [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
+> [![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n) > [![Trakteer - 0srD4n](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip) > [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n) > [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
 
 ---
 
