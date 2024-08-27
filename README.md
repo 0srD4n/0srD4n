@@ -127,7 +127,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!IMPORTANT] > <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
+> [!IMPORTANT]
+> <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
 >
 > no one know about this games : - )
 >
@@ -137,7 +138,10 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 >
 > Donate for me:
 >
-> [![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n) > [![Trakteer - 0srD4n](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip) > [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n) > [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
+> [![Buy Me a Coffee - 0srD4n](https://img.shields.io/badge/Buy_Me_a_Coffee-0srD4n-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/0srd4n)
+> [![Trakteer - 0srD4n](https://custom-icon-badges.demolab.com/badge/Trakteer-0srD4n-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/0srD4n/tip)
+> [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n)
+> [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
 
 ---
 
@@ -155,15 +159,14 @@ In this repository, you'll find a collection of projects and tools that push the
 
 ## 💻 Featured Projects
 
-| Project Name  | Description             | Tech Stack            |
-| ------------- | ----------------------- | --------------------- |
-| Website_Anime | Website Anime streaming | HTML, CSS, JavaScript |
-| Portofolio    | Portofolio for me       | HTML, CSS, JavaScript |
-| BHCLI         | Chat room with tor connection     | Rust                  |
-
+| Project Name  | Description                   | Tech Stack            |
+| ------------- | ----------------------------- | --------------------- |
+| Website_Anime | Website Anime streaming       | HTML, CSS, JavaScript |
+| Portofolio    | Portofolio for me             | HTML, CSS, JavaScript |
+| BHCLI         | Chat room with tor connection | Rust                  |
 
 ## 🔧 Tools of the Trade
 
 > coming soon
 
-> > > Latters Chatters <<<
+> Latters Chatters
