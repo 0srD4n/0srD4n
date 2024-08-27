@@ -92,14 +92,15 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 ---
 
-> [!TIP] > [![Spotify - Dantca_](https://img.shields.io/badge/Spotify-Dantca_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)<br> > <sub>Last played:</sub><br> > <sub> Hacking Mode On</sub> <br> > [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xm7txea264o45vm66425ojitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ><br> ><br>
-> Information :
-> <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a> > <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a>
+> [!TIP] > [![Spotify - Dantca_](https://img.shields.io/badge/Spotify-Dantca_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)<br> > <sub>Last played:</sub><br> > <sub> Hacking Mode On</sub> <br> > [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xm7txea264o45vm66425ojitmq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+> <br> > <br>
+> | Information about me : |
+> <br> > <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>
+> <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a>
 
 ---
 
-> [!NOTE] > **Check The Hot Repo !!**
-> <br>
+> [!NOTE] > **Check The Hot Repo !!** > <br> 
 > <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a> <a href="https://github.com/0srD4n/Portofolio"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent">
 
 ---
@@ -138,14 +139,11 @@ In this repository, you'll find a collection of projects and tools that push the
 
 ## 💻 Featured Projects
 
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| NeuralCrypt | AI-powered encryption system | Python, TensorFlow |
-| BlockGuard | Blockchain-based access control | Solidity, Web3.js |
-| QuantumScan | Quantum-resistant vulnerability scanner | Rust, Q# |
+| Project Name  | Description   | Tech Stack            |
+| ------------- | ------------- | --------------------- |
 | Website_Anime | Website Anime | HTML, CSS, JavaScript |
-| Portofolio | Portofolio | HTML, CSS, JavaScript |
+| Portofolio    | Portofolio    | HTML, CSS, JavaScript |
 
 ## 🔧 Tools of the Trade
-coming soon
 
+> coming soon
