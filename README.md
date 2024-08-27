@@ -177,7 +177,3 @@ In this repository, you'll find a collection of projects and tools that push the
 > Latters Chatters
 
 
-## <span style="font-family: 'Courier New', monospace; font-size: 24px; color: #FF00FF; text-shadow: 2px 2px #00FFFF, -2px -2px #FF00FF, 2px -2px #00FFFF, -2px 2px #FF00FF;">G̷̛̠͈̲̅̈́l̸̨̛̤͍̣̈́̓i̷͚̭͂̈́͝t̶̰̣̓c̷̢̛̱̈́̈́h̷͚̣̓̈́ ̶͚̓T̷͚̓e̷͚̓x̷͚̓t̷͚̓</span>
-
-<!-- Komentar: Teks glitch di atas menggunakan kombinasi CSS dan karakter Unicode untuk menciptakan efek glitch -->
-
