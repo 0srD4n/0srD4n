@@ -1,13 +1,13 @@
 
 ## 0SRD4N gif
 
-=====
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center" width="20px" height="20px">
 
 ![](gif2.GIF)
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
