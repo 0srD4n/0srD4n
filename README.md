@@ -33,11 +33,13 @@
   </p>
 </div>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=999&color=F70000&center=true&vCenter=true&width=435&lines=I'm+0srD4n+I'M+Join+The+Games+LOL)](https://git.io/typing-svg)
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
   <h2>PGP KEY</h2>
   <ul>
@@ -106,7 +108,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 </details>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 > [!TIP]
 > [![Spotify - Dantca_](https://img.shields.io/badge/Spotify-Dantca_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)
@@ -123,7 +126,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 | <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>                     |
 | <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a> |
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 > [!NOTE] 
 > **Check The Hot Repo!!**
@@ -131,7 +135,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 > <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a>
 > <a href="https://github.com/0srD4n/Portofolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent"></a>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 ## Activity
 
@@ -142,7 +147,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=0srD4n&show_icons=true&theme=tokyonight"/>
 </a>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 > [!IMPORTANT]
 > <b>Hello All, if you find me who has the codename 0srD4n you can send me a message using the pgp that I have provided.. let me know!! origin names only here WELCOME TO THE ABYS</b>
@@ -160,7 +166,8 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 > [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n)
 > [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 > "The future is already here — it's just not evenly distributed." - William Gibson
 
@@ -187,3 +194,7 @@ In this repository, you'll find a collection of projects and tools that push the
 > coming soon
 
 > Latters Chatters
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
