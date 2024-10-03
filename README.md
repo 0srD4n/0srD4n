@@ -134,7 +134,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 >
 > <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a>
 > <a href="https://github.com/0srD4n/Portofolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent"></a>
-> <a href="https://github.com/0srD4n/DanBot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=DanBot&theme=transparen"></a>
+> <a href="https://github.com/0srD4n/DanBot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=DanBot&theme=transparent"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
