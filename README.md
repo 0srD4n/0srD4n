@@ -109,7 +109,6 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<div align="center">
 
 > [!TIP]
 > [![Spotify - Dantca_](https://img.shields.io/badge/Spotify-Dantca_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)
@@ -121,6 +120,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 <br>
 
+<div align="center">
 | Information about me:                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>                     |
