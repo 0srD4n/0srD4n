@@ -1,13 +1,16 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Hallo%20ALL!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Im%27s%20OsrDan&descAlignY=55&descAlign=55" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Hallo%20ALL!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Im%20OsrDan&descAlignY=55&descAlign=55" />
 
 ## 0SRD4N gif
 
+<img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center" width="20px" height="20px">
+<div align="center" width="20px" height="20px">
 
 ![](gif2.GIF)
 
+</div>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center">
@@ -198,7 +201,6 @@ In this repository, you'll find a collection of projects and tools that push the
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api id=0srD4n&label=Visitors&color=6&icon=5&pretty=true"/>
 
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux"/></a>
 
@@ -206,9 +208,9 @@ In this repository, you'll find a collection of projects and tools that push the
 
 </div>
 
-<div align="center">
-
 ## Language 
+
+<div align="center">
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
