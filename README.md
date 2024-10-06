@@ -11,6 +11,7 @@
 ![](gif2.GIF)
 
 </div>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center">
@@ -19,9 +20,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<br>
 
 <div align="center">
+
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
     <a href="https://github.com/0srD4n">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -32,6 +33,7 @@
     <a href="https://instagram.com/0srD4n">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
+
 </div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
