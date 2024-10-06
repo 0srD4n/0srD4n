@@ -2,7 +2,7 @@
 
 ## 0SRD4N gif
 
-<img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
+<img src="https://visitcount.itsvg.in/api?id=0srD4n&label=Visitors&color=6&icon=5&pretty=true" />
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -185,6 +185,8 @@ In this repository, you'll find a collection of projects and tools that push the
 - 🌐 Decentralized applications
 - 🌐 Web Development
 
+<div align="center">
+
 ## 💻 Featured Projects
 
 | Project Name  | Description                   | Tech Stack            |
@@ -193,19 +195,17 @@ In this repository, you'll find a collection of projects and tools that push the
 | Portofolio    | Portofolio for me             | HTML, CSS, JavaScript |
 | BHCLI         | Chat room with tor connection | Rust                  |
 
+
 ## 🔧 Tools I made with love
 
 | Project Name | Descripstion | Tech Stack | 
 | ------------- | ------------ | --------- |
 | Danbot | Bot Whatsapp | js,nodejs|
 
+/
 <div align="center">
-
-
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux"/></a>
-
-<a href="https://blackarch.org/"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" /></a>
-
+<a href="https://blackarch.org/"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff"/></a>
 </div>
 
 ## Language 
