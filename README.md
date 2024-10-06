@@ -1,8 +1,12 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Hallo%20ALL!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Im%20OsrDan&descAlignY=55&descAlign=55" />
 
+<div align="center">
+
 ## 0SRD4N gif
 
 <img src="https://visitcount.itsvg.in/api?id=0srD4n&label=Visitors&color=6&icon=5&pretty=true" />
+
+</div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -27,6 +31,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <br>
 
 <a href="https://github.com/0srD4n">
@@ -41,10 +48,12 @@
 </div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=999&color=F70000&center=true&vCenter=true&width=435&lines=I'm+0srD4n+I'M+Join+The+Games+LOL)](https://git.io/typing-svg)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -116,6 +125,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 > [!TIP]
@@ -135,6 +145,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 | <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>                     |
 | <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a> |
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </div>
@@ -161,6 +172,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 > [!IMPORTANT]
@@ -179,6 +191,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 > [![Ko-fi - 0srD4n](https://img.shields.io/badge/Ko--fi-0srD4n-FF5E5B?logo=kofi)](https://ko-fi.com/0srD4n)
 > [![PayPal - 0srD4n](https://img.shields.io/badge/PayPal-0srD4n-informational?logo=paypal)](https://paypal.me/0srD4n)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -253,5 +266,4 @@ In this repository, you'll find a collection of projects and tools that push the
 > Latters Chatters
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
