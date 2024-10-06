@@ -26,6 +26,9 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
+
+<br>
+
 <a href="https://github.com/0srD4n">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
