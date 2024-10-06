@@ -210,11 +210,9 @@ In this repository, you'll find a collection of projects and tools that push the
 
 ## Anonymous Donate
 
-![Keybase BTC](https://img.shields.io/keybase/btc/:xpldan)
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/:xpldan)
-
-![GitHub](https://img.shields.io/badge/github-0srd4n-blue)
+![Keybase BTC](https://img.shields.io/keybase/btc/xpldan)
+![Keybase BTC](https://img.shields.io/keybase/pgp/xpldan)
 
 
 ## Language 
