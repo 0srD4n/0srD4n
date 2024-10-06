@@ -202,10 +202,13 @@ In this repository, you'll find a collection of projects and tools that push the
 | ------------- | ------------ | --------- |
 | Danbot | Bot Whatsapp | js,nodejs|
 
-/
+</div>
+
 <div align="center">
+
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux"/></a>
 <a href="https://blackarch.org/"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff"/></a>
+
 </div>
 
 ## Language 
