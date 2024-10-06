@@ -20,7 +20,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-** 🌐 Welcome to the Digital Frontier 🖥️ **
+ 🌐 Welcome to the Digital Frontier 🖥️ 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -31,7 +31,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <br>
@@ -48,12 +47,10 @@
 </div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=999&color=F70000&center=true&vCenter=true&width=435&lines=I'm+0srD4n+I'M+Join+The+Games+LOL)](https://git.io/typing-svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -125,7 +122,6 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 > [!TIP]
@@ -146,7 +142,6 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 | <a href="https://github.com/0srD4n"><img align="center" title="My" src="https://badgen.net/badge/Github/0srD4n/red?icon=github" alt="My GitHub Badge"/></a> |
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </div>
 
@@ -160,7 +155,6 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 > <a href="https://github.com/0srD4n/Marketplace_invention-udayana"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Marketplace_invention-udayana&theme=transparent"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Activity
 
@@ -171,7 +165,6 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=0srD4n&show_icons=true&theme=tokyonight"/>
 </a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -230,7 +223,7 @@ In this repository, you'll find a collection of projects and tools that push the
 
 </div>
 
-### OS
+## OS
 
 <div align="center">
 
