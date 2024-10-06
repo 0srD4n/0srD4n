@@ -19,6 +19,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<br>
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
     <a href="https://github.com/0srD4n">
@@ -121,6 +123,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 <br>
 
 <div align="center">
+
 | Information about me:                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/0srD4n"><img align="center" src="https://img.shields.io/github/followers/0srD4n" alt="followers_count"></a>                     |
