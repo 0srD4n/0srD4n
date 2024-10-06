@@ -21,6 +21,9 @@
 </h1>
 
 
+<br>
+<br>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Halo,+All!;Dantca,+Is+Second+Names!&center=true&width=380&height=50">
 <a href="https://github.com/0srD4n">
@@ -188,9 +191,10 @@ In this repository, you'll find a collection of projects and tools that push the
 - 🌐 Decentralized applications
 - 🌐 Web Development
 
-<div align="center">
 
 ## 💻 Featured Projects
+<div align="center">
+
 
 | Project Name  | Description                   | Tech Stack            |
 | ------------- | ----------------------------- | --------------------- |
@@ -198,14 +202,19 @@ In this repository, you'll find a collection of projects and tools that push the
 | Portofolio    | Portofolio for me             | HTML, CSS, JavaScript |
 | BHCLI         | Chat room with tor connection | Rust                  |
 
+</div>
 
 ## 🔧 Tools I made with love
+<div align="center">
+
 
 | Project Name | Descripstion | Tech Stack | 
 | ------------- | ------------ | --------- |
 | Danbot | Bot Whatsapp | js,nodejs|
 
 </div>
+
+### OS
 
 <div align="center">
 
@@ -216,10 +225,12 @@ In this repository, you'll find a collection of projects and tools that push the
 
 ## Anonymous Donate
 
+<div align="center">
 
 ![Keybase BTC](https://img.shields.io/keybase/btc/xpldan)
 ![Keybase BTC](https://img.shields.io/keybase/pgp/xpldan)
 
+</div>
 
 ## Language 
 
