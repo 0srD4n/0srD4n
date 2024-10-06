@@ -223,7 +223,7 @@ In this repository, you'll find a collection of projects and tools that push the
 
 </div>
 
-## OS
+##  Operating System
 
 <div align="center">
 
@@ -238,7 +238,12 @@ In this repository, you'll find a collection of projects and tools that push the
 
 ![Keybase BTC](https://img.shields.io/keybase/btc/xpldan)
 ![Keybase BTC](https://img.shields.io/keybase/pgp/xpldan)
-<>
+
+---
+
+![XMPP](https://a11ybadges.com/badge?logo=xmpp)
+> xpldan@07f.de
+
 </div>
 
 ## Language 
