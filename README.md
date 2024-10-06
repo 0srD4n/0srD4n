@@ -1,3 +1,4 @@
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Hallo%20ALL!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Im%27s%20OsrDan&descAlignY=55&descAlign=55" />
 
 ## 0SRD4N gif
 
@@ -195,6 +196,15 @@ In this repository, you'll find a collection of projects and tools that push the
 | ------------- | ------------ | --------- |
 | Danbot | Bot Whatsapp | js,nodejs|
 
+<p style="align">
+
+<img src="https://visitcount.itsvg.in/api?id=0srD4n&label=Visitors&color=6&icon=5&pretty=true" />
+
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
+
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-BlackArch-orange?style=flat&logo=arch" /></a>
+
+</p>
 
 > coming soon
 
