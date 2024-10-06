@@ -109,6 +109,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<div align="center">
 
 > [!TIP]
 > [![Spotify - Dantca_](https://img.shields.io/badge/Spotify-Dantca_%0A-2ea44f?logo=spotify)](https://open.spotify.com/user/31xm7txea264o45vm66425ojitmq)
@@ -127,6 +128,7 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+</div>
 
 > [!NOTE] 
 > **Check The Hot Repo!!**
