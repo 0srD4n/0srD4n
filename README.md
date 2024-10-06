@@ -196,15 +196,17 @@ In this repository, you'll find a collection of projects and tools that push the
 | ------------- | ------------ | --------- |
 | Danbot | Bot Whatsapp | js,nodejs|
 
-<p style="align">
+<div align="center>
 
 <img src="https://visitcount.itsvg.in/api?id=0srD4n&label=Visitors&color=6&icon=5&pretty=true" />
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux"/></a>
 
-<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
+<a href="https://blackarch.org/"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" /></a>
 
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-BlackArch-orange?style=flat&logo=arch" /></a>
-
-</p>
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+</div>
 
 > coming soon
 
