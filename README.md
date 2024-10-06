@@ -26,13 +26,12 @@
 <a href="https://github.com/0srD4n">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/0srD4n">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
 
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://instagram.com/0srD4n">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -141,9 +140,9 @@ fOae9o7br7jkIIA/bctYVl5+H5Xvb9OlddFetoFjrPtZdq5pQObOcM0QzPtFfA==
 > <a href="https://github.com/0srD4n/Website_Anime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Website_Anime&theme=transparent"></a>
 > <a href="https://github.com/0srD4n/Portofolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=portofolio&theme=transparent"></a>
 > <a href="https://github.com/0srD4n/DanBot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=DanBot&theme=transparent"></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 > <a href="https://github.com/0srD4n/Marketplace_invention-udayana"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0srD4n&repo=Marketplace_invention-udayana&theme=transparent"></a>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Activity
